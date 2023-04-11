@@ -176,6 +176,6 @@ class OwnNumberData:
         else:
             print(TID_EN_DebugIsDisabled)
 # END
-    time.sleep(9999999)
+    input("")
 # ABSOLUTE END
 
